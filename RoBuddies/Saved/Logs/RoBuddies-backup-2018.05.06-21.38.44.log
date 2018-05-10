@@ -1,0 +1,1751 @@
+﻿Log file open, 05/06/18 21:26:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RoBuddies
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-841971304) SRandInit(-841971304).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.177575
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.06-11.26.25:583][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.06-11.26.25:583][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.06-11.26.25:591][  0]LogInit: Computer: DESKTOP-LT914LN
+[2018.05.06-11.26.25:591][  0]LogInit: User: VictorWeidar
+[2018.05.06-11.26.25:591][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.06-11.26.25:591][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.05.06-11.26.25:591][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.06-11.26.25:591][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.06-11.26.25:591][  0]LogMemory: Process Physical Memory: 278.32 MB used, 278.32 MB peak
+[2018.05.06-11.26.25:591][  0]LogMemory: Process Virtual Memory: 274.26 MB used, 274.26 MB peak
+[2018.05.06-11.26.25:591][  0]LogMemory: Physical Memory: 9875.59 MB used,  6444.22 MB free, 16319.81 MB total
+[2018.05.06-11.26.25:591][  0]LogMemory: Virtual Memory: 707.25 MB used,  6444.22 MB free, 134217728.00 MB total
+[2018.05.06-11.26.25:873][  0]LogInit: Using OS detected language (sv-SE).
+[2018.05.06-11.26.25:873][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.05.06-11.26.25:877][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.05.06-11.26.25:878][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.05.06-11.26.26:704][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.06-11.26.26:759][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.05.06-11.26.26:759][  0]LogD3D11RHI:       6084/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.06-11.26.26:761][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.06-11.26.26:761][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.06-11.26.26:761][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.06-11.26.26:769][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.06-11.26.26:769][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.06-11.26.26:769][  0]LogWindows: EnumDisplayDevices:
+[2018.05.06-11.26.26:769][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.05.06-11.26.26:769][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.05.06-11.26.26:769][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.05.06-11.26.26:770][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.05.06-11.26.26:770][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.06-11.26.26:770][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.05.06-11.26.26:770][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.06-11.26.26:770][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.06-11.26.26:770][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.05.06-11.26.26:800][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.06-11.26.26:826][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.06-11.26.26:869][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Intermediate/Shaders/WorkingDirectory/12664/).
+[2018.05.06-11.26.26:869][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Victor Weidar/AppData/Local/Temp/UnrealShaderWorkingDir/3F4EE68049C4BEF5B7A5E6ABB832FA8D/'.
+[2018.05.06-11.26.26:869][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.06-11.26.27:850][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.06-11.26.27:910][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.06-11.26.27:972][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.06-11.26.28:033][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.06-11.26.28:095][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.06-11.26.28:156][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.06-11.26.28:220][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.06-11.26.28:280][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.06-11.26.28:333][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.06-11.26.28:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.06-11.26.28:453][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.06-11.26.28:513][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.06-11.26.28:572][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.06-11.26.28:631][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.06-11.26.28:691][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.06-11.26.28:810][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.06-11.26.28:810][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.06-11.26.28:859][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.06-11.26.28:966][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.06-11.26.29:002][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.06-11.26.29:058][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.06-11.26.29:121][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.06-11.26.29:181][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.06-11.26.29:241][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.06-11.26.29:241][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.06-11.26.29:818][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.06-11.26.29:914][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/Victor Weidar/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.06-11.26.29:914][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Victor Weidar/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.05.06-11.26.29:914][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.06-11.26.29:914][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.06-11.26.29:915][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.06-11.26.29:915][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.06-11.26.29:930][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.06-11.26.29:942][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Victor Weidar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.06-11.26.29:951][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.06-11.26.29:952][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.06-11.26.29:952][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.06-11.26.29:952][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.06-11.26.30:235][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.05.06-11.26.30:361][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.06-11.26.30:809][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.06-11.26.30:856][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.06-11.26.30:856][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.06-11.26.30:856][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.06-11.26.30:856][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.06-11.26.30:856][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.06-11.26.30:905][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.05.06-11.26.31:387][  0]LogNetVersion: RoBuddies , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 186601854)
+[2018.05.06-11.26.31:605][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.023357 seconds
+[2018.05.06-11.26.31:610][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.05.06-11.26.31:610][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.05.06-11.26.31:610][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.06-11.26.31:682][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.06-11.26.34:681][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.06-11.26.34:724][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.06-11.26.35:452][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.06-11.26.35:961][  0]SourceControl: Source control is disabled
+[2018.05.06-11.26.37:221][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.06-11.26.37:505][  0]LogOcInput: OculusInput pre-init called
+[2018.05.06-11.26.37:807][  0]LogEngine: Initializing Engine...
+[2018.05.06-11.26.37:809][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.06-11.26.38:041][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.06-11.26.38:041][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.06-11.26.38:228][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.06-11.26.38:240][  0]LogInit: XAudio2 using 'Hörlurar på headset (Razer ManO'War 7.1)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.06-11.26.38:266][  0]LogInit: FAudioDevice initialized.
+[2018.05.06-11.26.38:392][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/Victor Weidar/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.06-11.26.38:417][  0]LogInit: Texture streaming: Enabled
+[2018.05.06-11.26.38:580][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.06-11.26.38:853][  0]LogInit: Transaction tracking system initialized
+[2018.05.06-11.26.39:231][  0]BlueprintLog: New page: Editor Load
+[2018.05.06-11.26.40:341][  0]LocalizationService: Localization service is disabled
+[2018.05.06-11.26.41:217][  0]LogConsoleResponse: Display: 
+[2018.05.06-11.26.41:455][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.06-11.26.41:455][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.06-11.26.41:456][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.06-11.26.42:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/' took 0.01s
+[2018.05.06-11.26.42:752][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.06-11.26.42:753][  0]LightingResults: New page: Lighting Build
+[2018.05.06-11.26.42:807][  0]MapCheck: New page: Map Check
+[2018.05.06-11.26.42:807][  0]LightingResults: New page: Lighting Build
+[2018.05.06-11.26.43:050][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.06-11.26.43:061][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.06-11.26.43:099][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.06-11.26.43:157][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.993ms to complete.
+[2018.05.06-11.26.43:157][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.404
+[2018.05.06-11.26.43:229][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.06-11.26.44:741][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RoBuddies
+[2018.05.06-11.26.44:741][  0]LogTemp: CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.05.06-11.26.44:741][  0]LogTemp: Initial Dir: C:\Program Files (x86)\Epic Games\UE_4.17
+[2018.05.06-11.26.44:741][  0]LogTemp: Env CWD: C:\Program Files (x86)\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.05.06-11.26.44:741][  0]LogTemp: BranchPath = DESKTOP-LT914LN/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-LT914LN/C/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries
+[2018.05.06-11.26.44:741][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Victor Weidar\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.06-11.26.44:741][  0]LogCollectionManager: Loaded 0 collections in 0.002531 seconds
+[2018.05.06-11.26.44:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/Collections/' took 0.01s
+[2018.05.06-11.26.44:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/Developers/VictorWeidar/Collections/' took 0.01s
+[2018.05.06-11.26.44:836][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/Collections/' took 0.01s
+[2018.05.06-11.26.44:836][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.06-11.26.44:847][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2386 classes and 500 folders.
+[2018.05.06-11.26.44:928][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.06-11.26.44:970][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.06-11.26.45:025][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.05.06-11.26.45:098][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.06-11.26.45:101][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.06-11.26.45:109][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.06-11.26.45:342][  0]LogRenderer: Reallocating scene render targets to support 1280x676 Format 10 NumSamples 1 (Frame:1).
+[2018.05.06-11.26.45:715][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.05.06-11.26.45:716][  0]LogLoad: (Engine Initialization) Total time: 21.88 seconds
+[2018.05.06-11.26.45:716][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.06-11.26.45:716][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.06-11.26.45:716][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.06-11.26.45:762][  0]SourceControl: On branch master
+[2018.05.06-11.26.45:763][  0]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2018.05.06-11.26.45:763][  0]SourceControl:   (use "git push" to publish your local commits)
+[2018.05.06-11.26.45:763][  0]SourceControl: Changes to be committed:
+[2018.05.06-11.26.45:763][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.05.06-11.26.45:763][  0]SourceControl: 	new file:   Robros/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	new file:   Robros/Content/MyStuff/PlayerCharacter.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	modified:   Robros/Content/MyStuff/PrimaryCharacter.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: Changes not staged for commit:
+[2018.05.06-11.26.45:763][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.05.06-11.26.45:763][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.05.06-11.26.45:763][  0]SourceControl: 	modified:   RoBuddies/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/.gitignore
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Config/DefaultEditor.ini
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Config/DefaultEngine.ini
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Config/DefaultGame.ini
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Config/DefaultInput.ini
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/1M_Cube.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/TemplateFloor.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.05.06-11.26.45:763][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/ActionInterface_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_Door.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_Door_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_PressurePlate_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/CharacterSwapper_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/PrimaryCharacter.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/RobroGameMode_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/RobroGameState_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/SecondaryCharacter_2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Diffuse.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_Anim.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_PhysicsAsset.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_Skeleton.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Move.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/lambert2.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/PlayerCharacter.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/MyStuff/PrimaryCharacter.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Pillar_50x500.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/SM_AssetPlatform.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x200.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x300.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x400.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_500x500.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Door_400x400.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Window_400x300.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Window_400x400.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse02.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion02.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire01_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire_Sparks01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light01_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light02.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light02_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Smoke01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Smoke01_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Background_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Birds01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Music01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Music_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Wind05.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Wind06.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Steam01.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Steam01_Cue.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/Skybox.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+[2018.05.06-11.26.45:764][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/StarterMap.umap
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_AssetPlatform.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Basic_Floor.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Grime.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Glass.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2018.05.06-11.26.45:765][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Burst.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/m_flare_01.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Explosion.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Fire.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Smoke.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Sparks.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/MaterialSphere.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Bush.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Door.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Frame.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Lamp.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Bush.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Chair.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_CornerFrame.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Couch.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Door.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_PillarFrame.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Rock.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Shelf.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Stairs.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Statue.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_TableRound.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_WindowFrame.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cone.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cube.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cylinder.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe_180.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe_90.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Plane.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Sphere.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Torus.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_TriPyramid.uasset
+[2018.05.06-11.26.45:766][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Tube.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Wedge_A.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Wedge_B.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_WideCapsule.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Burst_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Bush_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Bush_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Chair_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Chair_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Checker_Noise_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Door_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Door_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Dust_Particle_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Fire_SubUV.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Frame_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Frame_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Gradinet_01.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Moss_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Lamp_M.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Lamp_N.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_MacroVariation.uasset
+[2018.05.06-11.26.45:767][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Copper_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Rust_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Rust_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_RockMesh_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_RockMesh_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Slate_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Shelf_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Shelf_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Single_Tile_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Smoke_SubUV.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Spark_Core.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Statue_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Statue_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_TableRound_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_TableRound_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Dot_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Dot_N.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+[2018.05.06-11.26.45:768][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Panel_M.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Panel_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Water_M.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Water_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Oak_D.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Oak_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Pine_D.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_ground_Moss_D.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/CubeMaterial.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/RampMaterial.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/PrimaryCharacter.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	deleted:    Robros/Robros.uproject
+[2018.05.06-11.26.45:769][  0]SourceControl: Untracked files:
+[2018.05.06-11.26.45:769][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Config/DefaultEditor.ini
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Config/DefaultGame.ini
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/Geometry/
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/Mannequin/
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/StarterContent/
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/ThirdPerson/
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Intermediate/
+[2018.05.06-11.26.45:769][  0]SourceControl: 	RoBuddies/Saved/
+[2018.05.06-11.26.45:770][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.06-11.26.45:829][  1]LogAssetRegistry: Asset discovery search completed in 15.6159 seconds
+[2018.05.06-11.26.45:830][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.06-11.26.45:830][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.05.06-11.26.49:824][236]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.06-11.26.52:500][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.05.06-11.26.57:179][656]Cmd: DELETE
+[2018.05.06-11.26.57:179][656]Cmd: ACTOR DELETE
+[2018.05.06-11.26.57:191][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-11.26.57:191][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-11.26.57:191][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-11.26.57:191][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-11.26.57:192][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-11.26.57:201][656]LogEditorActor: Deleted 5 Actors (0.011 secs)
+[2018.05.06-11.26.58:710][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.05.06-11.26.59:527][793]Cmd: DELETE
+[2018.05.06-11.26.59:527][793]Cmd: ACTOR DELETE
+[2018.05.06-11.26.59:528][793]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.06-11.26.59:537][793]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.05.06-11.27.00:977][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2018.05.06-11.27.05:405][135]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.05.06-11.27.10:885][453]MapCheck: New page: Map Check
+[2018.05.06-11.27.10:914][453]LightingResults: New page: Lighting Build - May 7, 2018, 7:27:10 AM
+[2018.05.06-11.27.11:016][453]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.06-11.27.11:093][453]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.06-11.27.11:113][453]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.06-11.27.12:650][453]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.06-11.27.12:650][453]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12664
+[2018.05.06-11.27.15:844][453]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.06-11.27.15:845][453]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.06-11.27.15:845][453]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.06-11.27.15:845][453]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.06-11.27.15:845][453]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.06-11.27.15:984][453]LogEditorBuildUtils: Build time 0:05
+[2018.05.06-11.27.15:994][453]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.05.06-11.27.16:012][453]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2018.05.06-11.27.26:177][850]Job is a success!
+[2018.05.06-11.27.26:525][851]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.06-11.27.27:132][851]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.05.06-11.27.27:132][851]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.05.06-11.27.27:132][851]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.06-11.27.27:132][851]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.05.06-11.27.27:132][851]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.05.06-11.27.27:132][851]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.06-11.27.27:288][851]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.05.06-11.27.27:288][851]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.05.06-11.27.27:322][851]Lightmass on DESKTOP-LT914LN: 6.98 sec total, 121 ms importing, 440 ms setup, 1.27 sec photons, 5.10 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 35.5 sec total, 11.0 sec processing.
+[2018.05.06-11.27.27:339][851]LogStaticLightingSystem: Illumination: 16.0 sec (528 ms encoding lightmaps, 139 ms encoding shadowmaps)
+[2018.05.06-11.27.27:339][851]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.05.06-11.27.27:339][851]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.05.06-11.27.27:852][851]DumpUnbuiltLightIteractions
+[2018.05.06-11.27.27:852][851]Lights with unbuilt interactions: 0
+[2018.05.06-11.27.27:852][851]
+[2018.05.06-11.27.27:852][851]Primitives with unbuilt interactions: 0
+[2018.05.06-11.27.27:865][852]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.06-11.27.27:865][852]MapCheck: New page: ThirdPersonExampleMap - May 7, 2018, 7:27:27 AM
+[2018.05.06-11.27.27:966][852]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.272ms to complete.
+[2018.05.06-11.27.32:645][125]LogActorFactory: Actor Factory created Cube
+[2018.05.06-11.27.33:445][172]LogActorFactory: Actor Factory created Cube
+[2018.05.06-11.28.02:537][640]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.05.06-11.28.31:821][802]LogStaticMesh: Building static mesh SM_Cube...
+[2018.05.06-11.28.31:829][802]LogStaticMesh: Built static mesh [0.01s] /Game/MyStuff/Art/ArtProps/SM_Cube.SM_Cube
+[2018.05.06-11.28.31:857][802]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.06-11.29.04:289][357]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.06-11.29.17:555][135]LogSavePackage: Save=15.28ms
+[2018.05.06-11.29.17:555][135]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/SM_CubeB6BCB4064D52D354C1F898B4CF0ECDD5.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/Art/ArtProps/SM_Cube.uasset'
+[2018.05.06-11.29.17:562][135]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/Art/ArtProps/SM_Cube.uasset
+[2018.05.06-11.29.52:233][521]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.29.52:735][522]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.29.53:236][523]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.29.53:967][524]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.29.54:468][525]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.29.55:001][526]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.30.45:094][637]SourceControl: On branch master
+[2018.05.06-11.30.45:094][637]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2018.05.06-11.30.45:094][637]SourceControl:   (use "git push" to publish your local commits)
+[2018.05.06-11.30.45:094][637]SourceControl: Changes to be committed:
+[2018.05.06-11.30.45:094][637]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.05.06-11.30.45:094][637]SourceControl: 	new file:   RoBuddies/Content/MyStuff/Art/ArtProps/SM_Cube.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	new file:   Robros/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	new file:   Robros/Content/MyStuff/PlayerCharacter.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	modified:   Robros/Content/MyStuff/PrimaryCharacter.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: Changes not staged for commit:
+[2018.05.06-11.30.45:094][637]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.05.06-11.30.45:094][637]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.05.06-11.30.45:094][637]SourceControl: 	modified:   RoBuddies/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/.gitignore
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Config/DefaultEditor.ini
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Config/DefaultEngine.ini
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Config/DefaultGame.ini
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Config/DefaultInput.ini
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/1M_Cube.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/TemplateFloor.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.05.06-11.30.45:094][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/ActionInterface_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_Door.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_Door_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_PressurePlate_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/CharacterSwapper_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/PrimaryCharacter.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/RobroGameMode_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/RobroGameState_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/SecondaryCharacter_2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Diffuse.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_Anim.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_PhysicsAsset.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_Skeleton.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Move.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/lambert2.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/PlayerCharacter.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/MyStuff/PrimaryCharacter.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Pillar_50x500.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/SM_AssetPlatform.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x200.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x300.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x400.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_500x500.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Door_400x400.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Window_400x300.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Window_400x400.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse02.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion02.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire01_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire_Sparks01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light01_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light02.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light02_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Smoke01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Smoke01_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Background_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Birds01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Music01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Music_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Wind05.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Wind06.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Steam01.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Steam01_Cue.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset
+[2018.05.06-11.30.45:095][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/Skybox.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/StarterMap.umap
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_AssetPlatform.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Basic_Floor.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Grime.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Glass.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Burst.uasset
+[2018.05.06-11.30.45:096][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/m_flare_01.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Explosion.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Fire.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Smoke.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Sparks.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/MaterialSphere.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Bush.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Door.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Frame.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Lamp.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Bush.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Chair.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_CornerFrame.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Couch.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Door.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_PillarFrame.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Rock.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Shelf.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Stairs.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Statue.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_TableRound.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_WindowFrame.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cone.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cube.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cylinder.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe_180.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe_90.uasset
+[2018.05.06-11.30.45:097][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Plane.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Sphere.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Torus.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_TriPyramid.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Tube.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Wedge_A.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Wedge_B.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_WideCapsule.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Burst_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Bush_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Bush_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Chair_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Chair_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Checker_Noise_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Door_M.uasset
+[2018.05.06-11.30.45:098][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Door_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Dust_Particle_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Fire_SubUV.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Frame_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Frame_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Gradinet_01.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Moss_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Lamp_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Lamp_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_MacroVariation.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Copper_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Rust_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Rust_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_RockMesh_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_RockMesh_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Slate_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Shelf_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Shelf_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Single_Tile_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Smoke_SubUV.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Spark_Core.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Statue_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Statue_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_TableRound_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_TableRound_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Dot_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Dot_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Panel_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Panel_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Water_M.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Water_N.uasset
+[2018.05.06-11.30.45:099][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Oak_D.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Oak_N.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Pine_D.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_ground_Moss_D.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/CubeMaterial.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/RampMaterial.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/PrimaryCharacter.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	deleted:    Robros/Robros.uproject
+[2018.05.06-11.30.45:100][637]SourceControl: Untracked files:
+[2018.05.06-11.30.45:100][637]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Config/DefaultEditor.ini
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Config/DefaultGame.ini
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/Geometry/
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/Mannequin/
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/StarterContent/
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/ThirdPerson/
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Intermediate/
+[2018.05.06-11.30.45:100][637]SourceControl: 	RoBuddies/Saved/
+[2018.05.06-11.30.45:426][637]LogMetaData: Removing '/Game/MyStuff/BP/BP_PhysicsPickupMaster.BP_PhysicsPickupMaster:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyStuff/BP/NewBlueprint.PackageMetaData'
+[2018.05.06-11.30.45:426][637]LogMetaData: Removing '/Game/MyStuff/BP/BP_PhysicsPickupMaster.SKEL_BP_PhysicsPickupMaster_C' ref from Metadata '/Game/MyStuff/BP/NewBlueprint.PackageMetaData'
+[2018.05.06-11.30.45:426][637]LogMetaData: Removing '/Game/MyStuff/BP/BP_PhysicsPickupMaster.BP_PhysicsPickupMaster_C' ref from Metadata '/Game/MyStuff/BP/NewBlueprint.PackageMetaData'
+[2018.05.06-11.30.45:426][637]LogMetaData: Removing '/Game/MyStuff/BP/BP_PhysicsPickupMaster.BP_PhysicsPickupMaster:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyStuff/BP/NewBlueprint.PackageMetaData'
+[2018.05.06-11.30.45:426][637]LogMetaData: Removing '/Game/MyStuff/BP/BP_PhysicsPickupMaster.BP_PhysicsPickupMaster:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyStuff/BP/NewBlueprint.PackageMetaData'
+[2018.05.06-11.30.45:426][637]LogMetaData: Removing '/Game/MyStuff/BP/BP_PhysicsPickupMaster.BP_PhysicsPickupMaster:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyStuff/BP/NewBlueprint.PackageMetaData'
+[2018.05.06-11.30.45:456][637]LogSavePackage: Save=9.90ms
+[2018.05.06-11.30.45:456][637]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/BP_PhysicsPickupMaster587FE392463F599D06CB4E8E0290EF09.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_PhysicsPickupMaster.uasset'
+[2018.05.06-11.30.45:459][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_PhysicsPickupMaster.uasset
+[2018.05.06-11.31.05:380][927]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.05.06-11.31.06:076][927]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.06-11.31.38:157][207]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.06-11.32.54:367][692]SourceControl: On branch master
+[2018.05.06-11.32.54:367][692]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2018.05.06-11.32.54:367][692]SourceControl:   (use "git push" to publish your local commits)
+[2018.05.06-11.32.54:367][692]SourceControl: Changes to be committed:
+[2018.05.06-11.32.54:367][692]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.05.06-11.32.54:367][692]SourceControl: 	new file:   RoBuddies/Content/MyStuff/Art/ArtProps/SM_Cube.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	new file:   RoBuddies/Content/MyStuff/BP/BP_PhysicsPickupMaster.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	new file:   Robros/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	new file:   Robros/Content/MyStuff/PlayerCharacter.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	modified:   Robros/Content/MyStuff/PrimaryCharacter.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: Changes not staged for commit:
+[2018.05.06-11.32.54:367][692]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.05.06-11.32.54:367][692]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.05.06-11.32.54:367][692]SourceControl: 	modified:   RoBuddies/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/.gitignore
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Config/DefaultEditor.ini
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Config/DefaultEngine.ini
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Config/DefaultGame.ini
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Config/DefaultInput.ini
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/1M_Cube.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Geometry/Meshes/TemplateFloor.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.05.06-11.32.54:367][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/ActionInterface_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_Door.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_Door_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/BP_PressurePlate_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/CharacterSwapper_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/PlayerCharacter.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/PrimaryCharacter.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/RobroGameMode_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/RobroGameState_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/BP/SecondaryCharacter_2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Diffuse.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_Anim.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_PhysicsAsset.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Idle_Skeleton.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/Flybot_Move.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/Characters/Air/lambert2.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/PlayerCharacter.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/MyStuff/PrimaryCharacter.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Pillar_50x500.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/SM_AssetPlatform.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x200.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x300.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_400x400.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_500x500.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Door_400x300.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Door_400x400.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Window_400x300.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Architecture/Wall_Window_400x400.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse02.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Collapse_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion02.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Explosion_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire01_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire_Sparks01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light01_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light02.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Light02_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Smoke01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Smoke01_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Background_Cue.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Birds01.uasset
+[2018.05.06-11.32.54:368][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Music01.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Music_Cue.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Wind05.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Starter_Wind06.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Steam01.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Audio/Steam01_Cue.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/Skybox.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/BP_LightStudio.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/Minimal_Default.umap
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Maps/StarterMap.umap
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_AssetPlatform.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Basic_Floor.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Grime.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Glass.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2018.05.06-11.32.54:369][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Burst.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/Materials/m_flare_01.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Explosion.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Fire.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Smoke.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Sparks.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/MaterialSphere.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Bush.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Door.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Frame.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Lamp.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Bush.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Chair.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_CornerFrame.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Couch.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Door.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_PillarFrame.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Rock.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Shelf.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Stairs.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_Statue.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_TableRound.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Props/SM_WindowFrame.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cone.uasset
+[2018.05.06-11.32.54:370][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cube.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Cylinder.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe_180.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Pipe_90.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Plane.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Sphere.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Torus.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_TriPyramid.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Tube.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Wedge_A.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_Wedge_B.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Shapes/Shape_WideCapsule.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Burst_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Bush_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Bush_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Chair_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Chair_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Checker_Noise_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Door_M.uasset
+[2018.05.06-11.32.54:371][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Door_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Dust_Particle_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Fire_SubUV.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Frame_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Frame_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Gradinet_01.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Grass_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Ground_Moss_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Lamp_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Lamp_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_MacroVariation.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Copper_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Gold_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Gold_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Rust_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Rust_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Steel_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Metal_Steel_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_RockMesh_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_RockMesh_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Slate_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Slate_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Shelf_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Shelf_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Single_Tile_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Smoke_SubUV.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Spark_Core.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Statue_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Statue_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_TableRound_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_TableRound_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Dot_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Dot_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Panel_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Tech_Panel_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Water_M.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Water_N.uasset
+[2018.05.06-11.32.54:372][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Oak_D.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Oak_N.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Pine_D.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Pine_N.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/StarterContent/Textures/T_ground_Moss_D.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/CubeMaterial.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/RampMaterial.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/PrimaryCharacter.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	deleted:    Robros/Robros.uproject
+[2018.05.06-11.32.54:373][692]SourceControl: Untracked files:
+[2018.05.06-11.32.54:373][692]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Config/DefaultEditor.ini
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Config/DefaultGame.ini
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/Geometry/
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/Mannequin/
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/StarterContent/
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/ThirdPerson/
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Intermediate/
+[2018.05.06-11.32.54:373][692]SourceControl: 	RoBuddies/Saved/
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.SKEL_BP_CubePickup_C' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup_C' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:693][692]LogMetaData: Removing '/Game/MyStuff/BP/BP_CubePickup.BP_CubePickup:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/MyStuff/BP/BP_BoulderPickup.PackageMetaData'
+[2018.05.06-11.32.54:711][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP/BP_CubePickup" FILE="../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_CubePickup.uasset" SILENT=true
+[2018.05.06-11.32.54:727][692]LogSavePackage: Save=14.58ms
+[2018.05.06-11.32.54:727][692]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/BP_CubePickupE3D4FA07495DBE93CDB4E58115964593.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_CubePickup.uasset'
+[2018.05.06-11.32.54:731][692]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_CubePickup.uasset
+[2018.05.06-11.33.01:435][778]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.33.03:113][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.05.06-11.34.05:909][606]BlueprintLog: New page: Compile BP_CubePickup
+[2018.05.06-11.34.07:042][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP/BP_CubePickup" FILE="../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_CubePickup.uasset" SILENT=true
+[2018.05.06-11.34.07:083][649]LogSavePackage: Save=26.14ms
+[2018.05.06-11.34.07:083][649]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/BP_CubePickup589C9A50464EB875A829D28D7143AFDB.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_CubePickup.uasset'
+[2018.05.06-11.34.07:087][649]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/MyStuff/BP/BP_CubePickup.uasset
+[2018.05.06-11.34.22:393][863]LogSavePackage: Save=106.00ms
+[2018.05.06-11.34.22:393][863]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/ThirdPersonExampleMap69A5DD0547FC0A249F827A9FD2845738.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.06-11.34.22:396][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.06-11.34.22:668][863]LogSavePackage: Save=120.21ms
+[2018.05.06-11.34.22:668][863]LogSavePackage: Moving '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/ThirdPersonExampleMap_BuiltData049870ED4C43AF94669182B72540860E.tmp' to '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.06-11.34.22:673][863]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.06-11.34.52:848][994]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.06-11.34.53:120][995]Cmd: QUIT_EDITOR
+[2018.05.06-11.34.53:169][995]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.06-11.34.53:185][995]LogExit: Preparing to exit.
+[2018.05.06-11.34.54:038][995]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/' was aborted.
+[2018.05.06-11.34.54:076][995]LogExit: Editor shut down
+[2018.05.06-11.34.54:082][995]LogExit: Transaction tracking system shut down
+[2018.05.06-11.34.54:154][995]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.06-11.34.54:154][995]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/' was aborted.
+[2018.05.06-11.34.54:154][995]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.06-11.34.54:154][995]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.06-11.34.54:155][995]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.06-11.34.54:248][995]LogExit: Object subsystem successfully closed.
+[2018.05.06-11.34.54:275][995]LogD3D11RHI: Shutdown
+[2018.05.06-11.34.54:275][995]LogD3D11RHI: CleanupD3DDevice
+[2018.05.06-11.35.06:662][995]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.06-11.35.06:683][995]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (540)
+[2018.05.06-11.35.06:683][995]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2018.05.06-11.35.06:683][995]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2018.05.06-11.35.06:684][995]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2018.05.06-11.35.06:684][995]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2018.05.06-11.35.06:684][995]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2018.05.06-11.35.06:684][995]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2018.05.06-11.35.06:684][995]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.05.06-11.35.06:684][995]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2018.05.06-11.35.06:685][995]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/Collections/' was aborted.
+[2018.05.06-11.35.06:685][995]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Content/Developers/VictorWeidar/Collections/' was aborted.
+[2018.05.06-11.35.06:685][995]LogDirectoryWatcher: A directory notification for 'C:/Users/Victor Weidar/Desktop/GameDev/Robros/Robros-SC/RoBuddies/Saved/Collections/' was aborted.
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (520)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.05.06-11.35.06:685][995]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.05.06-11.35.06:686][995]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.05.06-11.35.06:997][995]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.05.06-11.35.06:998][995]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.05.06-11.35.07:053][995]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.05.06-11.35.07:059][995]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.05.06-11.35.07:061][995]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.05.06-11.35.07:227][995]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.05.06-11.35.07:228][995]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.05.06-11.35.07:229][995]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.05.06-11.35.07:229][995]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.05.06-11.35.07:229][995]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.05.06-11.35.07:230][995]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.05.06-11.35.07:332][995]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.05.06-11.35.07:432][995]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.05.06-11.35.07:432][995]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.05.06-11.35.07:432][995]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.05.06-11.35.07:432][995]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.05.06-11.35.07:432][995]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.05.06-11.35.07:432][995]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.05.06-11.35.07:433][995]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.05.06-11.35.07:433][995]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.05.06-11.35.07:433][995]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.05.06-11.35.07:433][995]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.05.06-11.35.07:435][995]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.05.06-11.35.07:438][995]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.05.06-11.35.07:439][995]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.05.06-11.35.07:488][995]LogDerivedDataCache: Shutdown
+[2018.05.06-11.35.07:488][995]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.05.06-11.35.07:489][995]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.06-11.35.07:490][995]LogOnline: Display: Unloading online subsystem: NULL
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.06-11.35.07:490][995]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.06-11.35.07:490][995]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.06-11.35.07:490][995]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BA38AEC-4561-F42A-686B-54BCDC74677F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=52c09b674ff570e465a91c84e5b3e90a%7C576142a7ce4e41a4a4c4bf69e2f1ce98%7C644e0ae4-f221-42dd-b828-8b6eaba0659c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.06-11.35.07:521][995]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.06-11.35.07:522][995]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.06-11.35.07:525][995]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.06-11.35.07:529][995]LogExit: Exiting.
+[2018.05.06-11.35.07:542][995]Log file closed, 05/06/18 21:35:07
